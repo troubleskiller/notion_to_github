@@ -10,9 +10,10 @@ url = "https://mirrors.aliyun.com/pypi/simple/"
 default = true
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.11"
 requests = "^2.26.0"
-notiontomd = "^0.1.5"
+notiontomd = "^0.2.0"
+notion-client = "2.2.1"
 PyGithub = "^1.55"
 pyyaml = "^6.0"
 
