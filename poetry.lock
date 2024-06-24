@@ -201,7 +201,7 @@ reference = "aliyun"
 
 [[package]]
 name = "notion-client"
-version = "0.8.0"
+version = "2.2.1"
 description = "Python client for the official Notion API"
 category = "main"
 optional = false
@@ -217,7 +217,7 @@ reference = "aliyun"
 
 [[package]]
 name = "notiontomd"
-version = "0.1.4"
+version = "0.2.0"
 description = "convert notion page content to markdown"
 category = "main"
 optional = false
