@@ -548,8 +548,8 @@ markdown = [
     {file = "Markdown-3.3.6.tar.gz", hash = "sha256:76df8ae32294ec39dcf89340382882dfa12975f87f45c3ed1ecdb1e8cefc7006"},
 ]
 notion-client = [
-    {file = "notion-client-0.8.0.tar.gz", hash = "sha256:441c51d3f0186d198c1c968cc6908a7357df201a1bd34be3e0f96a68d7f4183c"},
-    {file = "notion_client-0.8.0-py2.py3-none-any.whl", hash = "sha256:fa434079a8c076128bc5537983f892e5747f84de62813b81455991b47bc01adc"},
+    {file = "notion-client-2.2.1.tar.gz", hash = "sha256:3827e381ccb5a21aeb606686787edfb6c7a10681cb3507c4d606a1918e791061"},
+    {file = "notion_client-2.2.1-py2.py3-none-any.whl", hash = "sha256:4ecf9ec527a124462f7bd407d9c9ead9853a9b2c8f00e56f3fa8fb15106ad871"},
 ]
 notiontomd = [
     {file = "notiontomd-0.1.4-py3-none-any.whl", hash = "sha256:62ab01b20632d2ad194a3d16d84e8420db27a991350254d12ab4064d20cbb391"},
