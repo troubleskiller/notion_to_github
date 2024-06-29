@@ -216,8 +216,8 @@ url = "https://mirrors.aliyun.com/pypi/simple"
 reference = "aliyun"
 
 [[package]]
-name = "notiontomd"
-version = "0.2.0"
+name = "notion2md"
+version = "2.9.0"
 description = "convert notion page content to markdown"
 category = "main"
 optional = false

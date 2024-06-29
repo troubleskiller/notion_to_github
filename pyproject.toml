@@ -2,7 +2,7 @@
 name = "notion_to_github_blog"
 version = "0.1.0"
 description = ""
-authors = ["Akkuman <akkumans@qq.com>"]
+authors = ["Troubleskiller <troubleskiller@outlook.com>"]
 
 [[tool.poetry.source]]
 name = "aliyun"

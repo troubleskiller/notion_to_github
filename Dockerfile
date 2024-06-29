@@ -1,6 +1,6 @@
 FROM python:3.7-slim-buster
 
-LABEL maintainer="Akkuman<akkumans@qq.com> (https://hacktech.cn)"
+LABEL maintainer="Troubleskiller<troubleskiller@outlook.com>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 ENV PYTHONUNBUFFERED=1 \
