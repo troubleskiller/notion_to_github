@@ -121,8 +121,10 @@ def github_action_env(key):
 
 
 def main():
-    notion_token = os.environ[github_action_env('NOTION_TOKEN')]
-    notion_database_id = os.environ[github_action_env('NOTION_DATABASE_ID')]
+    # notion_token = os.environ[github_action_env('NOTION_TOKEN')]
+    # notion_database_id = os.environ[github_action_env('NOTION_DATABASE_ID')]
+    notion_token = 'secret_K9rEXfR0TCyXTMB8w0EhRkXUAnSwtmtm29J4hSyAWtY'
+    notion_database_id = 'cfa914c2-9107-4f73-bc94-015cbe56961a'
     md_store_path_prefix = os.getenv(github_action_env('MD_STORE_PATH_PREFIX')) or 'content/posts'  # 保存markdown文件的目录
     notion = Notion(notion_token, notion_database_id)
     page_nodes = notion.items_changed()
